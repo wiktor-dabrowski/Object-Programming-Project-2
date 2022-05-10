@@ -1,0 +1,2673 @@
+{
+    "x": 40,
+    "y": 30,
+    "round_nr": 4,
+    "special_ability_communicate": "Człowiek nie żyje",
+    "logs": [
+        "Człowiek poruszył się na pole 35 18",
+        "Człowiek zginął po zjedzeniu WolfBerries"
+    ],
+    "list_animals": [
+        {
+            "name": "Fox",
+            "x": 15,
+            "y": 20,
+            "cooldown": -3,
+            "strength": 3
+        },
+        {
+            "name": "Fox",
+            "x": 25,
+            "y": 5,
+            "cooldown": -3,
+            "strength": 3
+        },
+        {
+            "name": "Fox",
+            "x": 29,
+            "y": 20,
+            "cooldown": 3,
+            "strength": 3
+        },
+        {
+            "name": "Fox",
+            "x": 27,
+            "y": 23,
+            "cooldown": -3,
+            "strength": 3
+        },
+        {
+            "name": "Fox",
+            "x": 9,
+            "y": 15,
+            "cooldown": -3,
+            "strength": 3
+        },
+        {
+            "name": "Fox",
+            "x": 26,
+            "y": 27,
+            "cooldown": -3,
+            "strength": 3
+        },
+        {
+            "name": "Fox",
+            "x": 32,
+            "y": 22,
+            "cooldown": -3,
+            "strength": 3
+        },
+        {
+            "name": "Fox",
+            "x": 11,
+            "y": 8,
+            "cooldown": -3,
+            "strength": 3
+        },
+        {
+            "name": "Fox",
+            "x": 18,
+            "y": 27,
+            "cooldown": -3,
+            "strength": 3
+        },
+        {
+            "name": "Fox",
+            "x": 15,
+            "y": 8,
+            "cooldown": -3,
+            "strength": 3
+        },
+        {
+            "name": "Fox",
+            "x": 24,
+            "y": 7,
+            "cooldown": -3,
+            "strength": 3
+        },
+        {
+            "name": "Fox",
+            "x": 35,
+            "y": 1,
+            "cooldown": -3,
+            "strength": 3
+        },
+        {
+            "name": "Fox",
+            "x": 35,
+            "y": 12,
+            "cooldown": -3,
+            "strength": 3
+        },
+        {
+            "name": "Fox",
+            "x": 28,
+            "y": 22,
+            "cooldown": -3,
+            "strength": 3
+        },
+        {
+            "name": "Fox",
+            "x": 0,
+            "y": 26,
+            "cooldown": 5,
+            "strength": 3
+        },
+        {
+            "name": "Fox",
+            "x": 26,
+            "y": 25,
+            "cooldown": -3,
+            "strength": 3
+        },
+        {
+            "name": "Fox",
+            "x": 3,
+            "y": 3,
+            "cooldown": -3,
+            "strength": 3
+        },
+        {
+            "name": "Fox",
+            "x": 26,
+            "y": 7,
+            "cooldown": -3,
+            "strength": 6
+        },
+        {
+            "name": "Fox",
+            "x": 10,
+            "y": 15,
+            "cooldown": -3,
+            "strength": 3
+        },
+        {
+            "name": "Fox",
+            "x": 20,
+            "y": 22,
+            "cooldown": -3,
+            "strength": 6
+        },
+        {
+            "name": "Fox",
+            "x": 4,
+            "y": 29,
+            "cooldown": 2,
+            "strength": 3
+        },
+        {
+            "name": "Fox",
+            "x": 11,
+            "y": 11,
+            "cooldown": -3,
+            "strength": 3
+        },
+        {
+            "name": "Fox",
+            "x": 37,
+            "y": 15,
+            "cooldown": -3,
+            "strength": 3
+        },
+        {
+            "name": "Fox",
+            "x": 1,
+            "y": 27,
+            "cooldown": 3,
+            "strength": 3
+        },
+        {
+            "name": "Fox",
+            "x": 2,
+            "y": 6,
+            "cooldown": -3,
+            "strength": 3
+        },
+        {
+            "name": "Fox",
+            "x": 30,
+            "y": 21,
+            "cooldown": -3,
+            "strength": 3
+        },
+        {
+            "name": "Fox",
+            "x": 38,
+            "y": 28,
+            "cooldown": -3,
+            "strength": 6
+        },
+        {
+            "name": "Fox",
+            "x": 7,
+            "y": 12,
+            "cooldown": 5,
+            "strength": 3
+        },
+        {
+            "name": "Fox",
+            "x": 15,
+            "y": 17,
+            "cooldown": -3,
+            "strength": 3
+        },
+        {
+            "name": "Fox",
+            "x": 32,
+            "y": 17,
+            "cooldown": -3,
+            "strength": 3
+        },
+        {
+            "name": "Fox",
+            "x": 7,
+            "y": 11,
+            "cooldown": -3,
+            "strength": 3
+        },
+        {
+            "name": "Fox",
+            "x": 6,
+            "y": 24,
+            "cooldown": -2,
+            "strength": 3
+        },
+        {
+            "name": "Fox",
+            "x": 2,
+            "y": 25,
+            "cooldown": -1,
+            "strength": 3
+        },
+        {
+            "name": "Fox",
+            "x": 1,
+            "y": 28,
+            "cooldown": 0,
+            "strength": 3
+        },
+        {
+            "name": "Fox",
+            "x": 8,
+            "y": 11,
+            "cooldown": 0,
+            "strength": 3
+        },
+        {
+            "name": "Wolf",
+            "x": 19,
+            "y": 23,
+            "cooldown": -3,
+            "strength": 9
+        },
+        {
+            "name": "Wolf",
+            "x": 2,
+            "y": 11,
+            "cooldown": -3,
+            "strength": 9
+        },
+        {
+            "name": "Wolf",
+            "x": 15,
+            "y": 28,
+            "cooldown": -3,
+            "strength": 9
+        },
+        {
+            "name": "Wolf",
+            "x": 30,
+            "y": 4,
+            "cooldown": -3,
+            "strength": 9
+        },
+        {
+            "name": "Wolf",
+            "x": 25,
+            "y": 23,
+            "cooldown": -3,
+            "strength": 9
+        },
+        {
+            "name": "Wolf",
+            "x": 33,
+            "y": 8,
+            "cooldown": -3,
+            "strength": 9
+        },
+        {
+            "name": "Wolf",
+            "x": 5,
+            "y": 22,
+            "cooldown": -2,
+            "strength": 9
+        },
+        {
+            "name": "Wolf",
+            "x": 26,
+            "y": 8,
+            "cooldown": -3,
+            "strength": 9
+        },
+        {
+            "name": "Wolf",
+            "x": 3,
+            "y": 27,
+            "cooldown": -2,
+            "strength": 9
+        },
+        {
+            "name": "Wolf",
+            "x": 11,
+            "y": 12,
+            "cooldown": -2,
+            "strength": 9
+        },
+        {
+            "name": "Wolf",
+            "x": 26,
+            "y": 5,
+            "cooldown": -2,
+            "strength": 9
+        },
+        {
+            "name": "Wolf",
+            "x": 37,
+            "y": 3,
+            "cooldown": -3,
+            "strength": 12
+        },
+        {
+            "name": "Wolf",
+            "x": 37,
+            "y": 29,
+            "cooldown": -3,
+            "strength": 9
+        },
+        {
+            "name": "Wolf",
+            "x": 14,
+            "y": 26,
+            "cooldown": -2,
+            "strength": 9
+        },
+        {
+            "name": "Wolf",
+            "x": 31,
+            "y": 23,
+            "cooldown": -3,
+            "strength": 9
+        },
+        {
+            "name": "Wolf",
+            "x": 25,
+            "y": 21,
+            "cooldown": -3,
+            "strength": 9
+        },
+        {
+            "name": "Wolf",
+            "x": 28,
+            "y": 8,
+            "cooldown": -3,
+            "strength": 9
+        },
+        {
+            "name": "Wolf",
+            "x": 16,
+            "y": 15,
+            "cooldown": -3,
+            "strength": 9
+        },
+        {
+            "name": "Wolf",
+            "x": 3,
+            "y": 12,
+            "cooldown": -3,
+            "strength": 9
+        },
+        {
+            "name": "Wolf",
+            "x": 4,
+            "y": 2,
+            "cooldown": -2,
+            "strength": 9
+        },
+        {
+            "name": "Antelope",
+            "x": 18,
+            "y": 0,
+            "cooldown": 3,
+            "strength": 4
+        },
+        {
+            "name": "CyberSheep",
+            "x": 33,
+            "y": 28,
+            "cooldown": 999996,
+            "strength": 11
+        },
+        {
+            "name": "Antelope",
+            "x": 25,
+            "y": 18,
+            "cooldown": -3,
+            "strength": 4
+        },
+        {
+            "name": "Sheep",
+            "x": 7,
+            "y": 0,
+            "cooldown": -2,
+            "strength": 4
+        },
+        {
+            "name": "Sheep",
+            "x": 5,
+            "y": 7,
+            "cooldown": -3,
+            "strength": 7
+        },
+        {
+            "name": "CyberSheep",
+            "x": 4,
+            "y": 15,
+            "cooldown": 999997,
+            "strength": 11
+        },
+        {
+            "name": "CyberSheep",
+            "x": 19,
+            "y": 18,
+            "cooldown": 999997,
+            "strength": 11
+        },
+        {
+            "name": "Sheep",
+            "x": 33,
+            "y": 21,
+            "cooldown": -2,
+            "strength": 4
+        },
+        {
+            "name": "Sheep",
+            "x": 26,
+            "y": 18,
+            "cooldown": -2,
+            "strength": 4
+        },
+        {
+            "name": "Antelope",
+            "x": 12,
+            "y": 8,
+            "cooldown": -2,
+            "strength": 4
+        },
+        {
+            "name": "CyberSheep",
+            "x": 13,
+            "y": 4,
+            "cooldown": 999996,
+            "strength": 11
+        },
+        {
+            "name": "Antelope",
+            "x": 15,
+            "y": 24,
+            "cooldown": -3,
+            "strength": 4
+        },
+        {
+            "name": "Sheep",
+            "x": 31,
+            "y": 11,
+            "cooldown": -3,
+            "strength": 4
+        },
+        {
+            "name": "CyberSheep",
+            "x": 21,
+            "y": 24,
+            "cooldown": 999996,
+            "strength": 11
+        },
+        {
+            "name": "Antelope",
+            "x": 30,
+            "y": 8,
+            "cooldown": -2,
+            "strength": 4
+        },
+        {
+            "name": "Antelope",
+            "x": 10,
+            "y": 7,
+            "cooldown": -3,
+            "strength": 4
+        },
+        {
+            "name": "CyberSheep",
+            "x": 10,
+            "y": 4,
+            "cooldown": 999996,
+            "strength": 14
+        },
+        {
+            "name": "Antelope",
+            "x": 5,
+            "y": 14,
+            "cooldown": -3,
+            "strength": 4
+        },
+        {
+            "name": "Sheep",
+            "x": 34,
+            "y": 17,
+            "cooldown": -1,
+            "strength": 7
+        },
+        {
+            "name": "Sheep",
+            "x": 11,
+            "y": 0,
+            "cooldown": -2,
+            "strength": 4
+        },
+        {
+            "name": "Sheep",
+            "x": 29,
+            "y": 14,
+            "cooldown": -2,
+            "strength": 4
+        },
+        {
+            "name": "CyberSheep",
+            "x": 32,
+            "y": 28,
+            "cooldown": 999996,
+            "strength": 11
+        },
+        {
+            "name": "Sheep",
+            "x": 22,
+            "y": 16,
+            "cooldown": 4,
+            "strength": 4
+        },
+        {
+            "name": "Antelope",
+            "x": 11,
+            "y": 16,
+            "cooldown": -3,
+            "strength": 4
+        },
+        {
+            "name": "Antelope",
+            "x": 10,
+            "y": 8,
+            "cooldown": -3,
+            "strength": 7
+        },
+        {
+            "name": "CyberSheep",
+            "x": 23,
+            "y": 5,
+            "cooldown": 999997,
+            "strength": 11
+        },
+        {
+            "name": "Sheep",
+            "x": 0,
+            "y": 3,
+            "cooldown": -3,
+            "strength": 4
+        },
+        {
+            "name": "CyberSheep",
+            "x": 32,
+            "y": 2,
+            "cooldown": 999996,
+            "strength": 11
+        },
+        {
+            "name": "CyberSheep",
+            "x": 6,
+            "y": 2,
+            "cooldown": 999996,
+            "strength": 11
+        },
+        {
+            "name": "Sheep",
+            "x": 16,
+            "y": 8,
+            "cooldown": 5,
+            "strength": 4
+        },
+        {
+            "name": "Antelope",
+            "x": 35,
+            "y": 11,
+            "cooldown": -3,
+            "strength": 4
+        },
+        {
+            "name": "Antelope",
+            "x": 21,
+            "y": 16,
+            "cooldown": -1,
+            "strength": 4
+        },
+        {
+            "name": "CyberSheep",
+            "x": 5,
+            "y": 15,
+            "cooldown": 999996,
+            "strength": 11
+        },
+        {
+            "name": "Sheep",
+            "x": 22,
+            "y": 19,
+            "cooldown": 5,
+            "strength": 7
+        },
+        {
+            "name": "Antelope",
+            "x": 1,
+            "y": 18,
+            "cooldown": -2,
+            "strength": 4
+        },
+        {
+            "name": "Antelope",
+            "x": 21,
+            "y": 17,
+            "cooldown": -3,
+            "strength": 4
+        },
+        {
+            "name": "Sheep",
+            "x": 17,
+            "y": 11,
+            "cooldown": 3,
+            "strength": 4
+        },
+        {
+            "name": "Antelope",
+            "x": 8,
+            "y": 18,
+            "cooldown": -2,
+            "strength": 4
+        },
+        {
+            "name": "Sheep",
+            "x": 16,
+            "y": 23,
+            "cooldown": -3,
+            "strength": 4
+        },
+        {
+            "name": "Sheep",
+            "x": 37,
+            "y": 10,
+            "cooldown": -2,
+            "strength": 4
+        },
+        {
+            "name": "Antelope",
+            "x": 1,
+            "y": 8,
+            "cooldown": -3,
+            "strength": 4
+        },
+        {
+            "name": "Sheep",
+            "x": 10,
+            "y": 28,
+            "cooldown": 3,
+            "strength": 4
+        },
+        {
+            "name": "Antelope",
+            "x": 2,
+            "y": 17,
+            "cooldown": -3,
+            "strength": 4
+        },
+        {
+            "name": "CyberSheep",
+            "x": 1,
+            "y": 11,
+            "cooldown": 999997,
+            "strength": 11
+        },
+        {
+            "name": "CyberSheep",
+            "x": 14,
+            "y": 11,
+            "cooldown": 999996,
+            "strength": 11
+        },
+        {
+            "name": "CyberSheep",
+            "x": 5,
+            "y": 17,
+            "cooldown": 999997,
+            "strength": 11
+        },
+        {
+            "name": "Antelope",
+            "x": 17,
+            "y": 8,
+            "cooldown": -2,
+            "strength": 4
+        },
+        {
+            "name": "Antelope",
+            "x": 15,
+            "y": 14,
+            "cooldown": -2,
+            "strength": 4
+        },
+        {
+            "name": "Antelope",
+            "x": 27,
+            "y": 16,
+            "cooldown": -3,
+            "strength": 4
+        },
+        {
+            "name": "Antelope",
+            "x": 29,
+            "y": 3,
+            "cooldown": 3,
+            "strength": 4
+        },
+        {
+            "name": "CyberSheep",
+            "x": 21,
+            "y": 26,
+            "cooldown": 999996,
+            "strength": 11
+        },
+        {
+            "name": "Sheep",
+            "x": 7,
+            "y": 22,
+            "cooldown": -2,
+            "strength": 4
+        },
+        {
+            "name": "Antelope",
+            "x": 29,
+            "y": 12,
+            "cooldown": -1,
+            "strength": 4
+        },
+        {
+            "name": "CyberSheep",
+            "x": 21,
+            "y": 23,
+            "cooldown": 999996,
+            "strength": 11
+        },
+        {
+            "name": "Sheep",
+            "x": 7,
+            "y": 8,
+            "cooldown": -3,
+            "strength": 7
+        },
+        {
+            "name": "Sheep",
+            "x": 21,
+            "y": 20,
+            "cooldown": -3,
+            "strength": 4
+        },
+        {
+            "name": "CyberSheep",
+            "x": 10,
+            "y": 22,
+            "cooldown": 999996,
+            "strength": 11
+        },
+        {
+            "name": "CyberSheep",
+            "x": 20,
+            "y": 19,
+            "cooldown": 999997,
+            "strength": 11
+        },
+        {
+            "name": "Antelope",
+            "x": 10,
+            "y": 0,
+            "cooldown": -1,
+            "strength": 4
+        },
+        {
+            "name": "CyberSheep",
+            "x": 24,
+            "y": 11,
+            "cooldown": 999996,
+            "strength": 14
+        },
+        {
+            "name": "Sheep",
+            "x": 15,
+            "y": 2,
+            "cooldown": -2,
+            "strength": 4
+        },
+        {
+            "name": "CyberSheep",
+            "x": 2,
+            "y": 0,
+            "cooldown": 999997,
+            "strength": 14
+        },
+        {
+            "name": "Sheep",
+            "x": 39,
+            "y": 9,
+            "cooldown": -3,
+            "strength": 4
+        },
+        {
+            "name": "Antelope",
+            "x": 2,
+            "y": 22,
+            "cooldown": -2,
+            "strength": 4
+        },
+        {
+            "name": "Antelope",
+            "x": 14,
+            "y": 14,
+            "cooldown": -3,
+            "strength": 4
+        },
+        {
+            "name": "Antelope",
+            "x": 38,
+            "y": 26,
+            "cooldown": -3,
+            "strength": 4
+        },
+        {
+            "name": "Sheep",
+            "x": 29,
+            "y": 17,
+            "cooldown": -2,
+            "strength": 4
+        },
+        {
+            "name": "Sheep",
+            "x": 9,
+            "y": 25,
+            "cooldown": -3,
+            "strength": 4
+        },
+        {
+            "name": "Antelope",
+            "x": 3,
+            "y": 5,
+            "cooldown": -2,
+            "strength": 4
+        },
+        {
+            "name": "Antelope",
+            "x": 30,
+            "y": 27,
+            "cooldown": -3,
+            "strength": 4
+        },
+        {
+            "name": "CyberSheep",
+            "x": 36,
+            "y": 3,
+            "cooldown": 999996,
+            "strength": 11
+        },
+        {
+            "name": "CyberSheep",
+            "x": 34,
+            "y": 1,
+            "cooldown": 999997,
+            "strength": 11
+        },
+        {
+            "name": "Sheep",
+            "x": 33,
+            "y": 25,
+            "cooldown": -2,
+            "strength": 4
+        },
+        {
+            "name": "Sheep",
+            "x": 22,
+            "y": 1,
+            "cooldown": -3,
+            "strength": 7
+        },
+        {
+            "name": "CyberSheep",
+            "x": 18,
+            "y": 16,
+            "cooldown": 999996,
+            "strength": 11
+        },
+        {
+            "name": "CyberSheep",
+            "x": 1,
+            "y": 20,
+            "cooldown": 999997,
+            "strength": 11
+        },
+        {
+            "name": "CyberSheep",
+            "x": 6,
+            "y": 15,
+            "cooldown": 999996,
+            "strength": 11
+        },
+        {
+            "name": "Sheep",
+            "x": 17,
+            "y": 24,
+            "cooldown": -2,
+            "strength": 4
+        },
+        {
+            "name": "CyberSheep",
+            "x": 31,
+            "y": 28,
+            "cooldown": 999996,
+            "strength": 14
+        },
+        {
+            "name": "Sheep",
+            "x": 0,
+            "y": 4,
+            "cooldown": -2,
+            "strength": 4
+        },
+        {
+            "name": "Antelope",
+            "x": 7,
+            "y": 13,
+            "cooldown": -3,
+            "strength": 4
+        },
+        {
+            "name": "Antelope",
+            "x": 8,
+            "y": 16,
+            "cooldown": -1,
+            "strength": 4
+        },
+        {
+            "name": "Sheep",
+            "x": 6,
+            "y": 13,
+            "cooldown": -1,
+            "strength": 4
+        },
+        {
+            "name": "Sheep",
+            "x": 4,
+            "y": 7,
+            "cooldown": -3,
+            "strength": 4
+        },
+        {
+            "name": "Sheep",
+            "x": 16,
+            "y": 9,
+            "cooldown": 4,
+            "strength": 4
+        },
+        {
+            "name": "Antelope",
+            "x": 3,
+            "y": 13,
+            "cooldown": -3,
+            "strength": 4
+        },
+        {
+            "name": "CyberSheep",
+            "x": 9,
+            "y": 3,
+            "cooldown": 999997,
+            "strength": 14
+        },
+        {
+            "name": "CyberSheep",
+            "x": 18,
+            "y": 15,
+            "cooldown": 999997,
+            "strength": 11
+        },
+        {
+            "name": "Antelope",
+            "x": 32,
+            "y": 8,
+            "cooldown": -3,
+            "strength": 4
+        },
+        {
+            "name": "CyberSheep",
+            "x": 13,
+            "y": 25,
+            "cooldown": 999996,
+            "strength": 11
+        },
+        {
+            "name": "Antelope",
+            "x": 33,
+            "y": 27,
+            "cooldown": -2,
+            "strength": 4
+        },
+        {
+            "name": "CyberSheep",
+            "x": 13,
+            "y": 19,
+            "cooldown": 999996,
+            "strength": 11
+        },
+        {
+            "name": "Sheep",
+            "x": 15,
+            "y": 13,
+            "cooldown": 3,
+            "strength": 4
+        },
+        {
+            "name": "CyberSheep",
+            "x": 19,
+            "y": 16,
+            "cooldown": 999996,
+            "strength": 14
+        },
+        {
+            "name": "Antelope",
+            "x": 6,
+            "y": 4,
+            "cooldown": 2,
+            "strength": 4
+        },
+        {
+            "name": "Sheep",
+            "x": 30,
+            "y": 5,
+            "cooldown": -3,
+            "strength": 4
+        },
+        {
+            "name": "CyberSheep",
+            "x": 15,
+            "y": 23,
+            "cooldown": 999996,
+            "strength": 11
+        },
+        {
+            "name": "Sheep",
+            "x": 33,
+            "y": 14,
+            "cooldown": -3,
+            "strength": 4
+        },
+        {
+            "name": "Antelope",
+            "x": 0,
+            "y": 20,
+            "cooldown": 4,
+            "strength": 4
+        },
+        {
+            "name": "Antelope",
+            "x": 2,
+            "y": 19,
+            "cooldown": -3,
+            "strength": 7
+        },
+        {
+            "name": "CyberSheep",
+            "x": 12,
+            "y": 23,
+            "cooldown": 999997,
+            "strength": 11
+        },
+        {
+            "name": "Sheep",
+            "x": 35,
+            "y": 3,
+            "cooldown": -3,
+            "strength": 4
+        },
+        {
+            "name": "Sheep",
+            "x": 38,
+            "y": 3,
+            "cooldown": -3,
+            "strength": 4
+        },
+        {
+            "name": "Antelope",
+            "x": 4,
+            "y": 23,
+            "cooldown": -3,
+            "strength": 4
+        },
+        {
+            "name": "Sheep",
+            "x": 12,
+            "y": 11,
+            "cooldown": -3,
+            "strength": 4
+        },
+        {
+            "name": "Sheep",
+            "x": 31,
+            "y": 15,
+            "cooldown": -3,
+            "strength": 4
+        },
+        {
+            "name": "Antelope",
+            "x": 26,
+            "y": 6,
+            "cooldown": -2,
+            "strength": 4
+        },
+        {
+            "name": "Sheep",
+            "x": 9,
+            "y": 7,
+            "cooldown": -2,
+            "strength": 7
+        },
+        {
+            "name": "Antelope",
+            "x": 10,
+            "y": 16,
+            "cooldown": 4,
+            "strength": 4
+        },
+        {
+            "name": "CyberSheep",
+            "x": 4,
+            "y": 25,
+            "cooldown": 999996,
+            "strength": 11
+        },
+        {
+            "name": "Antelope",
+            "x": 4,
+            "y": 18,
+            "cooldown": -3,
+            "strength": 4
+        },
+        {
+            "name": "Antelope",
+            "x": 2,
+            "y": 28,
+            "cooldown": -3,
+            "strength": 4
+        },
+        {
+            "name": "Antelope",
+            "x": 18,
+            "y": 13,
+            "cooldown": -1,
+            "strength": 4
+        },
+        {
+            "name": "Antelope",
+            "x": 18,
+            "y": 24,
+            "cooldown": -3,
+            "strength": 7
+        },
+        {
+            "name": "CyberSheep",
+            "x": 9,
+            "y": 2,
+            "cooldown": 999997,
+            "strength": 11
+        },
+        {
+            "name": "Antelope",
+            "x": 29,
+            "y": 5,
+            "cooldown": -1,
+            "strength": 4
+        },
+        {
+            "name": "Antelope",
+            "x": 20,
+            "y": 2,
+            "cooldown": -3,
+            "strength": 4
+        },
+        {
+            "name": "Sheep",
+            "x": 8,
+            "y": 29,
+            "cooldown": -2,
+            "strength": 4
+        },
+        {
+            "name": "Antelope",
+            "x": 3,
+            "y": 7,
+            "cooldown": -1,
+            "strength": 4
+        },
+        {
+            "name": "Sheep",
+            "x": 16,
+            "y": 11,
+            "cooldown": 4,
+            "strength": 4
+        },
+        {
+            "name": "Sheep",
+            "x": 9,
+            "y": 27,
+            "cooldown": -2,
+            "strength": 4
+        },
+        {
+            "name": "Sheep",
+            "x": 20,
+            "y": 15,
+            "cooldown": -2,
+            "strength": 4
+        },
+        {
+            "name": "Sheep",
+            "x": 20,
+            "y": 14,
+            "cooldown": -2,
+            "strength": 4
+        },
+        {
+            "name": "Sheep",
+            "x": 16,
+            "y": 13,
+            "cooldown": -1,
+            "strength": 4
+        },
+        {
+            "name": "Antelope",
+            "x": 6,
+            "y": 18,
+            "cooldown": -1,
+            "strength": 4
+        },
+        {
+            "name": "Antelope",
+            "x": 12,
+            "y": 16,
+            "cooldown": 0,
+            "strength": 4
+        },
+        {
+            "name": "Sheep",
+            "x": 15,
+            "y": 11,
+            "cooldown": 0,
+            "strength": 7
+        },
+        {
+            "name": "Sheep",
+            "x": 22,
+            "y": 20,
+            "cooldown": 0,
+            "strength": 7
+        },
+        {
+            "name": "Sheep",
+            "x": 17,
+            "y": 7,
+            "cooldown": 0,
+            "strength": 4
+        },
+        {
+            "name": "Turtle",
+            "x": 31,
+            "y": 21,
+            "cooldown": -3,
+            "strength": 2
+        },
+        {
+            "name": "Turtle",
+            "x": 17,
+            "y": 10,
+            "cooldown": -3,
+            "strength": 2
+        },
+        {
+            "name": "Turtle",
+            "x": 0,
+            "y": 13,
+            "cooldown": -3,
+            "strength": 2
+        },
+        {
+            "name": "Turtle",
+            "x": 8,
+            "y": 1,
+            "cooldown": -3,
+            "strength": 2
+        },
+        {
+            "name": "Turtle",
+            "x": 11,
+            "y": 9,
+            "cooldown": -2,
+            "strength": 2
+        },
+        {
+            "name": "Turtle",
+            "x": 35,
+            "y": 19,
+            "cooldown": -3,
+            "strength": 2
+        },
+        {
+            "name": "Turtle",
+            "x": 0,
+            "y": 24,
+            "cooldown": -3,
+            "strength": 2
+        },
+        {
+            "name": "Turtle",
+            "x": 26,
+            "y": 26,
+            "cooldown": -3,
+            "strength": 2
+        },
+        {
+            "name": "Turtle",
+            "x": 11,
+            "y": 14,
+            "cooldown": -3,
+            "strength": 2
+        },
+        {
+            "name": "Turtle",
+            "x": 33,
+            "y": 13,
+            "cooldown": -3,
+            "strength": 5
+        },
+        {
+            "name": "Turtle",
+            "x": 39,
+            "y": 26,
+            "cooldown": -3,
+            "strength": 2
+        },
+        {
+            "name": "Turtle",
+            "x": 18,
+            "y": 25,
+            "cooldown": -3,
+            "strength": 2
+        },
+        {
+            "name": "Turtle",
+            "x": 38,
+            "y": 12,
+            "cooldown": -3,
+            "strength": 2
+        },
+        {
+            "name": "Turtle",
+            "x": 9,
+            "y": 17,
+            "cooldown": -2,
+            "strength": 2
+        },
+        {
+            "name": "Turtle",
+            "x": 12,
+            "y": 12,
+            "cooldown": 2,
+            "strength": 2
+        },
+        {
+            "name": "Turtle",
+            "x": 39,
+            "y": 28,
+            "cooldown": -3,
+            "strength": 2
+        },
+        {
+            "name": "Turtle",
+            "x": 1,
+            "y": 25,
+            "cooldown": -3,
+            "strength": 2
+        },
+        {
+            "name": "Turtle",
+            "x": 37,
+            "y": 26,
+            "cooldown": -3,
+            "strength": 2
+        },
+        {
+            "name": "Turtle",
+            "x": 20,
+            "y": 28,
+            "cooldown": -3,
+            "strength": 2
+        },
+        {
+            "name": "Turtle",
+            "x": 35,
+            "y": 21,
+            "cooldown": -3,
+            "strength": 2
+        },
+        {
+            "name": "Turtle",
+            "x": 11,
+            "y": 3,
+            "cooldown": -3,
+            "strength": 2
+        },
+        {
+            "name": "Turtle",
+            "x": 4,
+            "y": 16,
+            "cooldown": -3,
+            "strength": 2
+        },
+        {
+            "name": "Turtle",
+            "x": 16,
+            "y": 7,
+            "cooldown": -3,
+            "strength": 2
+        },
+        {
+            "name": "Turtle",
+            "x": 36,
+            "y": 8,
+            "cooldown": -2,
+            "strength": 2
+        },
+        {
+            "name": "Turtle",
+            "x": 8,
+            "y": 7,
+            "cooldown": -3,
+            "strength": 2
+        },
+        {
+            "name": "Turtle",
+            "x": 19,
+            "y": 24,
+            "cooldown": -3,
+            "strength": 2
+        },
+        {
+            "name": "Turtle",
+            "x": 26,
+            "y": 17,
+            "cooldown": 4,
+            "strength": 2
+        },
+        {
+            "name": "Turtle",
+            "x": 23,
+            "y": 1,
+            "cooldown": -3,
+            "strength": 2
+        },
+        {
+            "name": "Turtle",
+            "x": 29,
+            "y": 2,
+            "cooldown": -2,
+            "strength": 2
+        },
+        {
+            "name": "Turtle",
+            "x": 17,
+            "y": 16,
+            "cooldown": -3,
+            "strength": 5
+        },
+        {
+            "name": "Turtle",
+            "x": 37,
+            "y": 24,
+            "cooldown": -3,
+            "strength": 2
+        },
+        {
+            "name": "Turtle",
+            "x": 29,
+            "y": 15,
+            "cooldown": -2,
+            "strength": 2
+        },
+        {
+            "name": "Turtle",
+            "x": 12,
+            "y": 14,
+            "cooldown": -3,
+            "strength": 2
+        },
+        {
+            "name": "Turtle",
+            "x": 17,
+            "y": 3,
+            "cooldown": -2,
+            "strength": 2
+        },
+        {
+            "name": "Turtle",
+            "x": 19,
+            "y": 1,
+            "cooldown": -3,
+            "strength": 2
+        },
+        {
+            "name": "Turtle",
+            "x": 20,
+            "y": 10,
+            "cooldown": -3,
+            "strength": 2
+        },
+        {
+            "name": "Turtle",
+            "x": 30,
+            "y": 18,
+            "cooldown": -3,
+            "strength": 2
+        },
+        {
+            "name": "Turtle",
+            "x": 32,
+            "y": 25,
+            "cooldown": -3,
+            "strength": 2
+        },
+        {
+            "name": "Turtle",
+            "x": 9,
+            "y": 29,
+            "cooldown": -3,
+            "strength": 2
+        },
+        {
+            "name": "Turtle",
+            "x": 11,
+            "y": 7,
+            "cooldown": -3,
+            "strength": 2
+        },
+        {
+            "name": "Turtle",
+            "x": 14,
+            "y": 8,
+            "cooldown": -3,
+            "strength": 2
+        },
+        {
+            "name": "Turtle",
+            "x": 26,
+            "y": 28,
+            "cooldown": -3,
+            "strength": 2
+        },
+        {
+            "name": "Turtle",
+            "x": 8,
+            "y": 10,
+            "cooldown": -2,
+            "strength": 2
+        },
+        {
+            "name": "Turtle",
+            "x": 2,
+            "y": 12,
+            "cooldown": -3,
+            "strength": 2
+        },
+        {
+            "name": "Turtle",
+            "x": 26,
+            "y": 16,
+            "cooldown": -3,
+            "strength": 2
+        },
+        {
+            "name": "Turtle",
+            "x": 19,
+            "y": 2,
+            "cooldown": -3,
+            "strength": 2
+        },
+        {
+            "name": "Turtle",
+            "x": 35,
+            "y": 25,
+            "cooldown": -2,
+            "strength": 2
+        },
+        {
+            "name": "Turtle",
+            "x": 0,
+            "y": 7,
+            "cooldown": -3,
+            "strength": 2
+        },
+        {
+            "name": "Turtle",
+            "x": 9,
+            "y": 19,
+            "cooldown": -2,
+            "strength": 5
+        },
+        {
+            "name": "Turtle",
+            "x": 22,
+            "y": 7,
+            "cooldown": -3,
+            "strength": 2
+        },
+        {
+            "name": "Turtle",
+            "x": 22,
+            "y": 14,
+            "cooldown": -3,
+            "strength": 2
+        },
+        {
+            "name": "Turtle",
+            "x": 28,
+            "y": 21,
+            "cooldown": -3,
+            "strength": 2
+        },
+        {
+            "name": "Turtle",
+            "x": 25,
+            "y": 17,
+            "cooldown": -1,
+            "strength": 2
+        }
+    ],
+    "list_plants": [
+        {
+            "name": "SosnowskysHogweed",
+            "x": 32,
+            "y": 0
+        },
+        {
+            "name": "Dandelion",
+            "x": 16,
+            "y": 20
+        },
+        {
+            "name": "SosnowskysHogweed",
+            "x": 35,
+            "y": 28
+        },
+        {
+            "name": "Dandelion",
+            "x": 36,
+            "y": 14
+        },
+        {
+            "name": "SosnowskysHogweed",
+            "x": 13,
+            "y": 2
+        },
+        {
+            "name": "Grass",
+            "x": 24,
+            "y": 27
+        },
+        {
+            "name": "WolfBerries",
+            "x": 3,
+            "y": 17
+        },
+        {
+            "name": "Grass",
+            "x": 36,
+            "y": 23
+        },
+        {
+            "name": "Dandelion",
+            "x": 13,
+            "y": 9
+        },
+        {
+            "name": "Grass",
+            "x": 11,
+            "y": 29
+        },
+        {
+            "name": "Grass",
+            "x": 28,
+            "y": 29
+        },
+        {
+            "name": "Grass",
+            "x": 12,
+            "y": 24
+        },
+        {
+            "name": "Grass",
+            "x": 10,
+            "y": 12
+        },
+        {
+            "name": "Guarana",
+            "x": 10,
+            "y": 3
+        },
+        {
+            "name": "Guarana",
+            "x": 29,
+            "y": 11
+        },
+        {
+            "name": "Guarana",
+            "x": 32,
+            "y": 29
+        },
+        {
+            "name": "Guarana",
+            "x": 27,
+            "y": 24
+        },
+        {
+            "name": "WolfBerries",
+            "x": 15,
+            "y": 15
+        },
+        {
+            "name": "WolfBerries",
+            "x": 23,
+            "y": 4
+        },
+        {
+            "name": "Guarana",
+            "x": 25,
+            "y": 29
+        },
+        {
+            "name": "WolfBerries",
+            "x": 38,
+            "y": 16
+        },
+        {
+            "name": "WolfBerries",
+            "x": 30,
+            "y": 17
+        },
+        {
+            "name": "Guarana",
+            "x": 12,
+            "y": 28
+        },
+        {
+            "name": "WolfBerries",
+            "x": 15,
+            "y": 5
+        },
+        {
+            "name": "Grass",
+            "x": 22,
+            "y": 18
+        },
+        {
+            "name": "WolfBerries",
+            "x": 38,
+            "y": 0
+        },
+        {
+            "name": "Dandelion",
+            "x": 4,
+            "y": 11
+        },
+        {
+            "name": "Dandelion",
+            "x": 24,
+            "y": 26
+        },
+        {
+            "name": "Dandelion",
+            "x": 6,
+            "y": 22
+        },
+        {
+            "name": "Grass",
+            "x": 14,
+            "y": 0
+        },
+        {
+            "name": "Dandelion",
+            "x": 27,
+            "y": 3
+        },
+        {
+            "name": "WolfBerries",
+            "x": 20,
+            "y": 18
+        },
+        {
+            "name": "WolfBerries",
+            "x": 17,
+            "y": 29
+        },
+        {
+            "name": "Guarana",
+            "x": 33,
+            "y": 23
+        },
+        {
+            "name": "Grass",
+            "x": 16,
+            "y": 28
+        },
+        {
+            "name": "Guarana",
+            "x": 21,
+            "y": 22
+        },
+        {
+            "name": "SosnowskysHogweed",
+            "x": 20,
+            "y": 5
+        },
+        {
+            "name": "Grass",
+            "x": 31,
+            "y": 3
+        },
+        {
+            "name": "Grass",
+            "x": 26,
+            "y": 10
+        },
+        {
+            "name": "Guarana",
+            "x": 36,
+            "y": 18
+        },
+        {
+            "name": "Grass",
+            "x": 23,
+            "y": 11
+        },
+        {
+            "name": "Grass",
+            "x": 10,
+            "y": 9
+        },
+        {
+            "name": "Dandelion",
+            "x": 19,
+            "y": 5
+        },
+        {
+            "name": "Grass",
+            "x": 0,
+            "y": 6
+        },
+        {
+            "name": "SosnowskysHogweed",
+            "x": 27,
+            "y": 0
+        },
+        {
+            "name": "Guarana",
+            "x": 32,
+            "y": 19
+        },
+        {
+            "name": "Grass",
+            "x": 24,
+            "y": 29
+        },
+        {
+            "name": "Grass",
+            "x": 18,
+            "y": 29
+        },
+        {
+            "name": "Dandelion",
+            "x": 11,
+            "y": 27
+        },
+        {
+            "name": "Grass",
+            "x": 17,
+            "y": 25
+        },
+        {
+            "name": "Grass",
+            "x": 25,
+            "y": 13
+        },
+        {
+            "name": "Guarana",
+            "x": 25,
+            "y": 15
+        },
+        {
+            "name": "Grass",
+            "x": 10,
+            "y": 20
+        },
+        {
+            "name": "SosnowskysHogweed",
+            "x": 22,
+            "y": 5
+        },
+        {
+            "name": "Grass",
+            "x": 18,
+            "y": 9
+        },
+        {
+            "name": "WolfBerries",
+            "x": 13,
+            "y": 15
+        },
+        {
+            "name": "Dandelion",
+            "x": 23,
+            "y": 24
+        },
+        {
+            "name": "Grass",
+            "x": 22,
+            "y": 21
+        },
+        {
+            "name": "Guarana",
+            "x": 6,
+            "y": 8
+        },
+        {
+            "name": "Grass",
+            "x": 5,
+            "y": 29
+        },
+        {
+            "name": "WolfBerries",
+            "x": 24,
+            "y": 21
+        },
+        {
+            "name": "Guarana",
+            "x": 23,
+            "y": 18
+        },
+        {
+            "name": "Grass",
+            "x": 29,
+            "y": 10
+        },
+        {
+            "name": "WolfBerries",
+            "x": 3,
+            "y": 1
+        },
+        {
+            "name": "Guarana",
+            "x": 4,
+            "y": 0
+        },
+        {
+            "name": "Guarana",
+            "x": 13,
+            "y": 0
+        },
+        {
+            "name": "SosnowskysHogweed",
+            "x": 37,
+            "y": 20
+        },
+        {
+            "name": "Grass",
+            "x": 22,
+            "y": 4
+        },
+        {
+            "name": "Grass",
+            "x": 24,
+            "y": 23
+        },
+        {
+            "name": "SosnowskysHogweed",
+            "x": 19,
+            "y": 19
+        },
+        {
+            "name": "Dandelion",
+            "x": 17,
+            "y": 9
+        },
+        {
+            "name": "Grass",
+            "x": 16,
+            "y": 3
+        },
+        {
+            "name": "Grass",
+            "x": 8,
+            "y": 2
+        },
+        {
+            "name": "Grass",
+            "x": 20,
+            "y": 13
+        },
+        {
+            "name": "SosnowskysHogweed",
+            "x": 38,
+            "y": 17
+        },
+        {
+            "name": "Dandelion",
+            "x": 15,
+            "y": 3
+        },
+        {
+            "name": "WolfBerries",
+            "x": 25,
+            "y": 8
+        },
+        {
+            "name": "Guarana",
+            "x": 18,
+            "y": 28
+        },
+        {
+            "name": "Dandelion",
+            "x": 26,
+            "y": 22
+        },
+        {
+            "name": "Dandelion",
+            "x": 30,
+            "y": 11
+        },
+        {
+            "name": "Dandelion",
+            "x": 12,
+            "y": 6
+        },
+        {
+            "name": "Grass",
+            "x": 7,
+            "y": 20
+        },
+        {
+            "name": "SosnowskysHogweed",
+            "x": 33,
+            "y": 2
+        },
+        {
+            "name": "Guarana",
+            "x": 8,
+            "y": 17
+        },
+        {
+            "name": "Grass",
+            "x": 39,
+            "y": 11
+        },
+        {
+            "name": "WolfBerries",
+            "x": 28,
+            "y": 25
+        },
+        {
+            "name": "WolfBerries",
+            "x": 32,
+            "y": 10
+        },
+        {
+            "name": "SosnowskysHogweed",
+            "x": 22,
+            "y": 9
+        },
+        {
+            "name": "Guarana",
+            "x": 3,
+            "y": 0
+        },
+        {
+            "name": "SosnowskysHogweed",
+            "x": 1,
+            "y": 15
+        },
+        {
+            "name": "Dandelion",
+            "x": 31,
+            "y": 12
+        },
+        {
+            "name": "Grass",
+            "x": 35,
+            "y": 7
+        },
+        {
+            "name": "Guarana",
+            "x": 19,
+            "y": 20
+        },
+        {
+            "name": "Guarana",
+            "x": 2,
+            "y": 16
+        },
+        {
+            "name": "Guarana",
+            "x": 8,
+            "y": 22
+        },
+        {
+            "name": "WolfBerries",
+            "x": 10,
+            "y": 17
+        },
+        {
+            "name": "WolfBerries",
+            "x": 9,
+            "y": 9
+        },
+        {
+            "name": "SosnowskysHogweed",
+            "x": 17,
+            "y": 5
+        },
+        {
+            "name": "SosnowskysHogweed",
+            "x": 33,
+            "y": 1
+        },
+        {
+            "name": "WolfBerries",
+            "x": 39,
+            "y": 7
+        },
+        {
+            "name": "Grass",
+            "x": 25,
+            "y": 27
+        },
+        {
+            "name": "Grass",
+            "x": 37,
+            "y": 22
+        },
+        {
+            "name": "Grass",
+            "x": 11,
+            "y": 13
+        },
+        {
+            "name": "Dandelion",
+            "x": 5,
+            "y": 21
+        },
+        {
+            "name": "Grass",
+            "x": 23,
+            "y": 10
+        },
+        {
+            "name": "Guarana",
+            "x": 31,
+            "y": 20
+        },
+        {
+            "name": "Grass",
+            "x": 9,
+            "y": 20
+        },
+        {
+            "name": "WolfBerries",
+            "x": 10,
+            "y": 29
+        },
+        {
+            "name": "Dandelion",
+            "x": 24,
+            "y": 24
+        },
+        {
+            "name": "Dandelion",
+            "x": 15,
+            "y": 1
+        },
+        {
+            "name": "Dandelion",
+            "x": 31,
+            "y": 10
+        },
+        {
+            "name": "Dandelion",
+            "x": 17,
+            "y": 20
+        },
+        {
+            "name": "Dandelion",
+            "x": 16,
+            "y": 19
+        },
+        {
+            "name": "Dandelion",
+            "x": 37,
+            "y": 14
+        },
+        {
+            "name": "Dandelion",
+            "x": 13,
+            "y": 10
+        },
+        {
+            "name": "Guarana",
+            "x": 24,
+            "y": 28
+        },
+        {
+            "name": "Guarana",
+            "x": 3,
+            "y": 18
+        },
+        {
+            "name": "Dandelion",
+            "x": 25,
+            "y": 25
+        },
+        {
+            "name": "SosnowskysHogweed",
+            "x": 20,
+            "y": 4
+        },
+        {
+            "name": "Grass",
+            "x": 25,
+            "y": 11
+        },
+        {
+            "name": "Grass",
+            "x": 11,
+            "y": 10
+        },
+        {
+            "name": "Dandelion",
+            "x": 19,
+            "y": 14
+        },
+        {
+            "name": "Grass",
+            "x": 23,
+            "y": 29
+        },
+        {
+            "name": "Dandelion",
+            "x": 11,
+            "y": 28
+        },
+        {
+            "name": "Grass",
+            "x": 17,
+            "y": 23
+        },
+        {
+            "name": "Guarana",
+            "x": 26,
+            "y": 14
+        },
+        {
+            "name": "Dandelion",
+            "x": 24,
+            "y": 25
+        },
+        {
+            "name": "Dandelion",
+            "x": 10,
+            "y": 10
+        },
+        {
+            "name": "Grass",
+            "x": 7,
+            "y": 2
+        },
+        {
+            "name": "Grass",
+            "x": 33,
+            "y": 17
+        },
+        {
+            "name": "WolfBerries",
+            "x": 24,
+            "y": 8
+        },
+        {
+            "name": "Dandelion",
+            "x": 30,
+            "y": 12
+        },
+        {
+            "name": "Guarana",
+            "x": 2,
+            "y": 15
+        },
+        {
+            "name": "Dandelion",
+            "x": 6,
+            "y": 21
+        },
+        {
+            "name": "Dandelion",
+            "x": 23,
+            "y": 26
+        },
+        {
+            "name": "Grass",
+            "x": 12,
+            "y": 29
+        },
+        {
+            "name": "WolfBerries",
+            "x": 24,
+            "y": 5
+        },
+        {
+            "name": "Guarana",
+            "x": 13,
+            "y": 28
+        },
+        {
+            "name": "Dandelion",
+            "x": 25,
+            "y": 26
+        },
+        {
+            "name": "Dandelion",
+            "x": 7,
+            "y": 23
+        },
+        {
+            "name": "Dandelion",
+            "x": 27,
+            "y": 2
+        },
+        {
+            "name": "Grass",
+            "x": 22,
+            "y": 10
+        },
+        {
+            "name": "Grass",
+            "x": 1,
+            "y": 5
+        },
+        {
+            "name": "Dandelion",
+            "x": 23,
+            "y": 25
+        },
+        {
+            "name": "Guarana",
+            "x": 6,
+            "y": 7
+        },
+        {
+            "name": "WolfBerries",
+            "x": 3,
+            "y": 2
+        },
+        {
+            "name": "Dandelion",
+            "x": 25,
+            "y": 19
+        },
+        {
+            "name": "Grass",
+            "x": 24,
+            "y": 22
+        },
+        {
+            "name": "Dandelion",
+            "x": 18,
+            "y": 10
+        },
+        {
+            "name": "Dandelion",
+            "x": 30,
+            "y": 10
+        },
+        {
+            "name": "Dandelion",
+            "x": 11,
+            "y": 6
+        },
+        {
+            "name": "Guarana",
+            "x": 3,
+            "y": 16
+        },
+        {
+            "name": "WolfBerries",
+            "x": 9,
+            "y": 10
+        },
+        {
+            "name": "Grass",
+            "x": 36,
+            "y": 21
+        },
+        {
+            "name": "Dandelion",
+            "x": 4,
+            "y": 20
+        },
+        {
+            "name": "Dandelion",
+            "x": 14,
+            "y": 2
+        },
+        {
+            "name": "Dandelion",
+            "x": 30,
+            "y": 9
+        },
+        {
+            "name": "Dandelion",
+            "x": 16,
+            "y": 21
+        },
+        {
+            "name": "Dandelion",
+            "x": 17,
+            "y": 19
+        },
+        {
+            "name": "Dandelion",
+            "x": 14,
+            "y": 9
+        },
+        {
+            "name": "Dandelion",
+            "x": 30,
+            "y": 13
+        },
+        {
+            "name": "Dandelion",
+            "x": 32,
+            "y": 12
+        },
+        {
+            "name": "Dandelion",
+            "x": 10,
+            "y": 26
+        },
+        {
+            "name": "Dandelion",
+            "x": 22,
+            "y": 26
+        },
+        {
+            "name": "Dandelion",
+            "x": 23,
+            "y": 27
+        },
+        {
+            "name": "Guarana",
+            "x": 14,
+            "y": 29
+        },
+        {
+            "name": "Dandelion",
+            "x": 26,
+            "y": 1
+        },
+        {
+            "name": "WolfBerries",
+            "x": 4,
+            "y": 1
+        },
+        {
+            "name": "Dandelion",
+            "x": 26,
+            "y": 20
+        },
+        {
+            "name": "Dandelion",
+            "x": 12,
+            "y": 7
+        },
+        {
+            "name": "Dandelion",
+            "x": 13,
+            "y": 8
+        },
+        {
+            "name": "Dandelion",
+            "x": 23,
+            "y": 28
+        },
+        {
+            "name": "Dandelion",
+            "x": 13,
+            "y": 7
+        },
+        {
+            "name": "WolfBerries",
+            "x": 4,
+            "y": 17
+        },
+        {
+            "name": "Grass",
+            "x": 35,
+            "y": 24
+        },
+        {
+            "name": "Grass",
+            "x": 12,
+            "y": 25
+        },
+        {
+            "name": "WolfBerries",
+            "x": 31,
+            "y": 17
+        },
+        {
+            "name": "Grass",
+            "x": 21,
+            "y": 18
+        },
+        {
+            "name": "Dandelion",
+            "x": 7,
+            "y": 21
+        },
+        {
+            "name": "Grass",
+            "x": 16,
+            "y": 29
+        },
+        {
+            "name": "Grass",
+            "x": 30,
+            "y": 2
+        },
+        {
+            "name": "Grass",
+            "x": 25,
+            "y": 10
+        },
+        {
+            "name": "Dandelion",
+            "x": 18,
+            "y": 6
+        },
+        {
+            "name": "WolfBerries",
+            "x": 28,
+            "y": 24
+        },
+        {
+            "name": "WolfBerries",
+            "x": 33,
+            "y": 11
+        },
+        {
+            "name": "Dandelion",
+            "x": 32,
+            "y": 13
+        },
+        {
+            "name": "Guarana",
+            "x": 9,
+            "y": 21
+        },
+        {
+            "name": "Grass",
+            "x": 25,
+            "y": 28
+        },
+        {
+            "name": "Dandelion",
+            "x": 16,
+            "y": 1
+        },
+        {
+            "name": "Dandelion",
+            "x": 36,
+            "y": 13
+        },
+        {
+            "name": "Grass",
+            "x": 25,
+            "y": 12
+        },
+        {
+            "name": "Guarana",
+            "x": 3,
+            "y": 15
+        },
+        {
+            "name": "Dandelion",
+            "x": 31,
+            "y": 13
+        },
+        {
+            "name": "Dandelion",
+            "x": 10,
+            "y": 27
+        },
+        {
+            "name": "Dandelion",
+            "x": 12,
+            "y": 9
+        },
+        {
+            "name": "Dandelion",
+            "x": 14,
+            "y": 7
+        },
+        {
+            "name": "Grass",
+            "x": 15,
+            "y": 29
+        },
+        {
+            "name": "Dandelion",
+            "x": 31,
+            "y": 14
+        },
+        {
+            "name": "Dandelion",
+            "x": 37,
+            "y": 13
+        },
+        {
+            "name": "Grass",
+            "x": 26,
+            "y": 13
+        }
+    ]
+}
